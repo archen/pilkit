@@ -23,7 +23,7 @@ setup(
     name='pilkit',
     version=pkgmeta['__version__'],
     description='A collection of utilities and processors for the Python Imaging Libary.',
-    long_description=read(os.path.join(os.path.dirname(__file__), 'README.rst')),
+#    long_description=read(os.path.join(os.path.dirname(__file__), 'README.rst')),
     author='Matthew Tretter',
     author_email='m@tthewwithanm.com',
     license='BSD',
